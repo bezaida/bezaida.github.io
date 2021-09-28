@@ -1,1 +1,10 @@
-
+body{
+  background-color: #ADD;}
+img{
+  width: 360px;
+border: 3px double;
+  border-radius:15px; }
+#russia{ color:#0000dc;}
+#russia2{color:#0000dc}
+#russia3{color:#0000dc}
+#russia4{ color:#DC143c}
